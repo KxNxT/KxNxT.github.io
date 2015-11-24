@@ -1,7 +1,7 @@
 ---
 layout: blog
 published: false
-title: ""
+title: 1st post
 ---
 
 ## A New Post
